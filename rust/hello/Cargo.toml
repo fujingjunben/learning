@@ -1,0 +1,6 @@
+[package]
+name = "hello"
+version = "0.1.0"
+authors = ["liuhaikuan <liuhaikuan@game2sky.com>"]
+edition = "2018"
+
