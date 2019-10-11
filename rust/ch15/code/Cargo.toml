@@ -3,4 +3,6 @@
 members = [
     "app",
     "sp",
+    "cell",
+    "tree",
 ]
