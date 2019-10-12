@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    'app',
+    'message_pass',
+    'shared_memory',
+]
